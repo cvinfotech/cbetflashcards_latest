@@ -193,7 +193,7 @@
                        <hr>
                      </div>-->
                     <div class="icn-main-container">
-                        <span class="icn-container">$45</span>
+                        <span class="icn-container">$20</span>
                         <span class="icn-container sub">/ 3 Months Access</span>
 
                     </div>
@@ -214,7 +214,7 @@
                     <div class="servicetitle">
                     </div>
                     <div class="icn-main-container">
-                        <span class="icn-container">$80</span>
+                        <span class="icn-container">$30</span>
                         <span class="icn-container sub">/ 6 Months Access</span>
                     </div>
                     <ul class="pricing">
@@ -238,7 +238,7 @@
                         <div class="banner-container">
                             <div class="banner">Best Seller</div>
                         </div>
-                        <span class="icn-container">$120</span>
+                        <span class="icn-container">$60</span>
                         <span class="icn-container sub">/ Yearly</span>
                     </div>
                     <ul class="pricing">
